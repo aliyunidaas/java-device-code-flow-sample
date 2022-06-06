@@ -7,7 +7,7 @@
 
 1. 在阿里云IDaaS产品创建实例(https://yundun.console.aliyun.com/?p=idaas#/overview/new/cn-hangzhou)
 2. 创建一个OIDC应用： "应用" -> "添加应用" -> "标准协议" -> 添加"OIDC"应用
-3. 在应用 "单点登录" -> "授权模式" 中勾选中 "设置模式"
+3. 在应用 "单点登录" -> "授权模式" 中勾选中 "设备模式"
 
 测试本示例，运行命令行如下：
 
